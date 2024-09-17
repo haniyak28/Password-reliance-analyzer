@@ -1,6 +1,4 @@
 # Password-resilience-analyzer
-A password strength analyzer in C on Linux, designed to enhance online account security by evaluating password strength based on predefined rules and guidelines, reducing weak password usage by 30%.
-
 In the realm of cybersecurity, the strength of passwords is crucial in defending sensitive information from unauthorized incursions and potential security breaches. The Password Resilience Analyzer has emerged as an essential tool in this arena, allowing both individuals and organizations to assess the resilience of their passwords against the onslaught of brute-force and sophisticated attacks. By mimicking possible attack strategies on a selected password, the Resilience analyzer offers a deeper understanding of the potential vulnerabilities inherent in a password, prompting users to develop stronger, more secure combinations. As cyber threats continue to advance in complexity, ensuring that passwords are fortified against these challenges is of utmost importance, and tools like the Password Resilience Analyzer are indispensable allies in this dynamic digital theater.
 
 I designed and developed a software program using the C language, aptly named the "Password Resilience Analyzer". This program will be tasked with assessing the strength of a password, bearing 
