@@ -47,12 +47,12 @@ Each criterion above has a dedicated function to check its condition.
   - Implement evaluateStrength(): Based on the previous checks, what's the total strength score of the password?
 
 # 5. Password Strength Score
-• The total strength of the password is computed as a score, ranging from 0 (weakest) to 5 (strongest).
-• As each strength criterion is met, a point is added to the score. For instance, if a password has a digit and a lowercase letter but nothing else, it gets 2 points.
+  - The total strength of the password is computed as a score, ranging from 0 (weakest) to 5 (strongest).
+  - As each strength criterion is met, a point is added to the score. For instance, if a password has a digit and a lowercase letter but nothing else, it gets 2 points.
 
 # 6. Output
-• Based on the computed score, the password is categorized into:
-• 0-2 points: "Weak"
-• 3-4 points: "Moderate"
-• 5 points: "Strong"
-• Displays the strength category to the user after analysis
+  - Based on the computed score, the password is categorized into:
+  - 0-2 points: "Weak"
+  - 3-4 points: "Moderate"
+  - 5 points: "Strong"
+  - Displays the strength category to the user after analysis
