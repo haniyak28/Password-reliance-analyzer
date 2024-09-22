@@ -13,6 +13,8 @@ overstated. The Password Resilience Analyzer allowed me to delve deep into the a
 
 # By the end of this project, I think I not only mastered the art of creating strong passwords but also am equipped with the skills to help others understand and appreciate the nuances of password security.
 
+![alt text](https://github.com/haniyak28/Password-reliance-analyzer/blob/40479f68452787bd0993544e24aa4843ac46c7c5/Password%20reliance%20analyser.png)
+
 # 1. Main Menu
 A user-friendly main menu interface to navigate through the program.
   - Display the main interface
