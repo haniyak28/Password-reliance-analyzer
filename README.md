@@ -15,13 +15,13 @@ overstated. The Password Resilience Analyzer allowed me to delve deep into the a
 
 # 1. Main Menu
 A user-friendly main menu interface to navigate through the program.
-• Display the main interface
-• Handle user input for option selections correctly
-• Provide accurate responses to each selection
+  • Display the main interface
+  • Handle user input for option selections correctly
+  • Provide accurate responses to each selection
 Options provided:
-• Test a new password: Allows the user to enter a password for strength analysis.
-• View strength of the last tested password: Shows the strength rating (Weak, Moderate, Strong) of the previously tested password.
-• Exit: Close the program.
+  • Test a new password: Allows the user to enter a password for strength analysis.
+  • View strength of the last tested password: Shows the strength rating (Weak, Moderate, Strong) of the previously tested password.
+  • Exit: Close the program.
 
 # 2. Password Input
 Prompts the user to input a password and store it for analysis. 
